@@ -1,0 +1,28 @@
+
+.red{
+    padding: 80px 60px;
+    background-color: rgb(250, 0, 0);
+    
+    
+width: 10%;
+border-radius: 55%;
+
+
+}
+.space-between-red-and-green{
+    padding-top: 13%;
+    padding-left:37% ;
+}
+.green{
+    padding: 25px, 40px;
+    background-color:darkgreen;
+   
+    width: 50%;
+    height: 350px;
+    margin-top:150px ;
+    margin-left: 25%;
+
+}
+body{
+    margin: 0%;
+}
